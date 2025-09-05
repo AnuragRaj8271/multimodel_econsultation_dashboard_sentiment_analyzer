@@ -1,0 +1,14 @@
+streamlit
+transformers
+langdetect
+deep-translator
+wordcloud
+matplotlib
+moviepy
+speechrecognition
+pandas
+numpy
+plotly
+torch
+scikit-learn
+reportlab
