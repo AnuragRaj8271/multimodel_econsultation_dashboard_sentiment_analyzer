@@ -1,14 +1,37 @@
-streamlit
-transformers
+# Streamlit UI
+streamlit==1.49.1
+
+# NLP / Transformers
+transformers==4.56.1
+torch
+torchvision
+torchaudio
+huggingface-hub
+tokenizers
+safetensors
+regex
+pyyaml
+filelock
+packaging
+requests
+
+# Text translation / language detection
 langdetect
 deep-translator
-wordcloud
+
+# Visualization
 matplotlib
-moviepy
-speechrecognition
-pandas
-numpy
 plotly
-torch
+wordcloud
+
+# Data handling
+pandas
 scikit-learn
+
+# Audio / Video
+moviepy==1.0.3
+SpeechRecognition
+pydub
+
+# PDF generation
 reportlab
